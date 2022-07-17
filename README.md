@@ -1,5 +1,5 @@
 # ATO
-ATO+rate lbmit bypass
+ATO+rate limit bypass
 
 
 1. Добавлять новый параметр &email=
